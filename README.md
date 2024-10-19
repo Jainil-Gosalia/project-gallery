@@ -6,7 +6,7 @@ Welcome to my personal portfolio repository! Here, you'll find a collection of m
 
 This portfolio showcases my work, highlighting:
 
-- **Machine Learning Algorithms**: This folder covers implementations of machine learning algorithms from scratch, testing assumptions of any machine learning algorithm and their practival usage on real world data.
+- **Machine Learning Algorithms**: This folder covers implementations of machine learning algorithms from scratch, testing assumptions of any machine learning algorithm and their practical usage on real world data.
 
 ## Getting Started
 
