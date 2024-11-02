@@ -29,6 +29,8 @@ To view my projects, simply browse the repository. For more details on each proj
 11. Simple Retrieval-Augmented Generation (RAG)
 12. RAG for PDFs
 13. Vision Based RAG with ColPali
+14. ReAct Agent Implementation
+15. Natural Language to SQL Query for DataFrames
 
 ## Contact
 
