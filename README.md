@@ -31,6 +31,15 @@ To view my projects, simply browse the repository. For more details on each proj
 13. Vision Based RAG with ColPali
 14. ReAct Agent Implementation
 15. Natural Language to SQL Query for DataFrames
+16. Verbal Self Reflection Agent
+17. Numerical Self Reflection Agent
+18. Hypothetical Document Embeddings (HyDE) for RAG
+19. ColBERT for RAG
+20. Breast Cancer Prediction
+21. Divorce Prediction
+22. Gender Classification
+23. Loan Default Credit Risk Modelling
+24. Stroke Occurence Prediction
 
 ## Contact
 
